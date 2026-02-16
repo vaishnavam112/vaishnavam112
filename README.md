@@ -1,5 +1,5 @@
 - Hello, I’m @vaishnavam112
--Project management enthusiast focused on planning, coordination, and teamwork. Interested in learning how projects are executed efficiently, managing timelines, and contributing to meaningful, real-world outcomes.
+- Project management enthusiast focused on planning, coordination, and teamwork. Interested in learning how projects are executed efficiently, managing timelines, and contributing to meaningful, real-world outcomes.
 - vaishnavimittha2019@gmail.com
 - YT - https://youtube.com/@vaishuelectronics
 - Dev.to - https://dev.to/dashboard
