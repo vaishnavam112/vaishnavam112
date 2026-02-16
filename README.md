@@ -1,7 +1,5 @@
 - Hello, I’m @vaishnavam112
-- I have keen interest in Exploratory Data Analysis, FPGA, RTL, ASIC.
-- I’m currently pursuing BTech degree in Electronics and Telecommunication engineering, specialization in Data Science.
-- Have good command over EDA tools- Ansys, Xilinx Vivado, Virtuoso, Proteus. 
+-Project management enthusiast focused on planning, coordination, and teamwork. Interested in learning how projects are executed efficiently, managing timelines, and contributing to meaningful, real-world outcomes.
 - vaishnavimittha2019@gmail.com
 - YT - https://youtube.com/@vaishuelectronics
 - Dev.to - https://dev.to/dashboard
